@@ -1,0 +1,9 @@
+.list-style{
+list-style-position: inside;
+list-style-type: none;
+margin-left: 35rem;
+color:purple;
+display: flex;
+align-items: center;
+
+} 
